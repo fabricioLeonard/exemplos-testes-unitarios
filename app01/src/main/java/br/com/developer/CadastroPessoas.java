@@ -1,4 +1,4 @@
-package br.com.developeracademy;
+package br.com.developer;
 
 import java.util.ArrayList;
 import java.util.List;

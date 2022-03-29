@@ -1,4 +1,4 @@
-package br.com.developeracademy;
+package br.com.developer;
 
 public class PessoaSemNomeException extends RuntimeException {
 

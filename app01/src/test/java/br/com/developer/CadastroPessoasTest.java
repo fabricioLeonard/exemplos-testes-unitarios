@@ -1,4 +1,4 @@
-package br.com.developeracademy;
+package br.com.developer;
 
 import org.assertj.core.api.Assertions;
 import org.junit.Test;
