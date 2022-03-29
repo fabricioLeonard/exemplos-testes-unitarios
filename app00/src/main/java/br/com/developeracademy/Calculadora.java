@@ -19,7 +19,7 @@ public class Calculadora {
 
     public int dividir(int numero1, int numero2) {
         if (numero2 == 0){
-            throw new RuntimeException("Não é permitido divisão por zero!");
+            throw new ArithmeticException("Não é permitido divisão por zero!");
         }
         return numero1 / numero2;
     }
